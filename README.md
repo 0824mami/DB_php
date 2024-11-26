@@ -7,7 +7,7 @@ PhP＿DB
 
 ## ③アプリのデプロイURL
 Git ：　https://github.com/0824mami/DB_php
-さくら：　
+さくら：　https://okachimenko.sakura.ne.jp/DB_kadai/all5.php
 
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
